@@ -1,0 +1,14 @@
+{
+  "bookingCode": "Booking Code",
+  "familyName": "Family Name",
+  "checkIn": "Check-in",
+  "errors": {
+    "9001": "Invalid Booking code",
+    "9002": "Family name invalid",
+    "9003": "Check-in not available yet for this flight",
+    "9004": "Sorry online check-in closed for this flight"
+  },
+  "success": {
+    "checkInConfirmation": "Check-in confirmation message"
+  }
+} 

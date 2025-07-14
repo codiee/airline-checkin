@@ -1,0 +1,14 @@
+{
+  "bookingCode": "Boekingscode",
+  "familyName": "Achternaam",
+  "checkIn": "Inchecken",
+  "errors": {
+    "9001": "Ongeldige boekingscode",
+    "9002": "Achternaam ongeldig",
+    "9003": "Inchecken is nog niet beschikbaar voor deze vlucht",
+    "9004": "Sorry, online inchecken is gesloten voor deze vlucht"
+  },
+  "success": {
+    "checkInConfirmation": "Incheckbevestiging"
+  }
+} 
