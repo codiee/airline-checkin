@@ -7,7 +7,7 @@ i18next
     // lng: 'en', // if you want to use a default language
     fallbackLng: 'en',
     backend: {
-      loadPath: '/Users/satendra/workspace/airline-checkin/packages/backend/locales/{{lng}}/{{ns}}.json',
+      loadPath: '/Users/mac/Downloads/airline-checkin/packages/backend/locales/{{lng}}/{{ns}}.json',
     },
     ns: ['translation'],
     defaultNS: 'translation',

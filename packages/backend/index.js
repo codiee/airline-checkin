@@ -6,8 +6,8 @@ const bodyParser = require('body-parser');
 const i18next = require('./i18n');
 
 const validBookings = [
-  { bookingCode: 'PZ6S8A', familyName: 'DIOR' },
-  { bookingCode: 'W9A6S4', familyName: 'SOLAR' },
+  { bookingCode: 'ABCD123', familyName: 'DIOR' },
+  { bookingCode: 'EFGH123', familyName: 'SOLAR' },
 ];
 
 const typeDefs = `#graphql
